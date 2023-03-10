@@ -19,7 +19,7 @@ I'm a student pursuing computer engineering. My primary interests are computer v
 
 ### My Website
 
-You can take a look at my resume, projects, and guides [here](mythicalcow.github.io)
+You can take a look at my resume, projects, and guides [here](https://mythicalcow.github.io/)
 
 
 ![image](lidar.jpg)
