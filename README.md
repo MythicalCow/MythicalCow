@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm a student pursuing computer engineering. My primary interests are computer vision, embedded systems programming, and electronics.
+
+![image](lidar.jpg)
