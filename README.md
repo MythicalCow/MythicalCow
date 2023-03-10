@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a student pursuing computer engineering. My primary interests are computer vision, embedded systems programming, and electronics.
 
-#My Website
+### My Website
 
 You can take a look at my resume, projects, and guides [here](mythicalcow.github.io)
 
