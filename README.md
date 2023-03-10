@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Raghav
 
 <!--
 **MythicalCow/MythicalCow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a student pursuing computer engineering. My primary interests are computer vision, embedded systems programming, and electronics.
