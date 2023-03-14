@@ -22,4 +22,7 @@ I'm a student pursuing computer engineering. My primary interests are computer v
 You can take a look at my resume, projects, and guides [here](https://mythicalcow.github.io/)
 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MythicalCow&count_private=true&theme=tokyonight&showicons=true)]()
+
+
 ![image](lidar.jpg)
