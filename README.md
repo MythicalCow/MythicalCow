@@ -22,6 +22,6 @@ I'm a student pursuing computer engineering at the University of Illinois at Urb
 
 ### My Website
 
-You can take a look at my resume, projects, and guides [here](https://mythicalcow.github.io/)
+You can take a look at my resume, projects, and guides [here](https://raghavtirumale.github.io/)
 
 ![image](lidar.jpg)
