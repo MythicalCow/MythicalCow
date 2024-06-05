@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student pursuing computer engineering at the University of Illinois at Urbana-Champaign. My primary interests are computer vision, embedded systems programming, and electronics.
+I'm a student pursuing computer engineering at the University of Illinois at Urbana-Champaign. My primary interests are product design and engineering.
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MythicalCow&langs_count=10&theme=tokyonight)]()
 
-
-### My Website
-
-You can take a look at my resume, projects, and guides [here](https://raghavtirumale.github.io/)
-
-![image](lidar.jpg)
