@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a student pursuing computer engineering at the University of Illinois at Urbana-Champaign. My primary interests are product design and engineering.
+I'm a student pursuing computer engineering at the University of Illinois at Urbana-Champaign. My primary interests are product design, embedded systems, and machine learning
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MythicalCow&langs_count=10&theme=tokyonight)]()
 
