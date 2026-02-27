@@ -1,14 +1,24 @@
-# Hi there, I'm Raghav! 👋
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Raghav.;Computer+Engineering+%40+UIUC;Systems+%2B+ML+Inference)](https://git.io/typing-svg)
 
-I'm a student pursuing a Bachelor of Science in Computer Engineering at the University of Illinois Urbana-Champaign (UIUC). I write low-level code that makes machine intelligence run faster on hardware, and I love working close to the metal.
+I write low-level code to make machine intelligence run faster on hardware.
 
-### 🚀 About Me
-* 🎓 Pursuing a Bachelor of Science in Computer Engineering at the University of Illinois Urbana-Champaign (UIUC).
-* 💼 Currently working as the Inference Lead at Deepgrove (Y Combinator S25), and headed to Anduril as a Software Engineer.
-* 🏆 8VC Engineering Fellow.
-* 🛠️ **Tech Stack:** Experienced with programming languages and technologies like C, C++, CUDA, Python, Triton, and PyTorch.
-* ⚡ **Interests:** High-performance inference, GPU acceleration, and optimizing machine learning systems.
-* 🍵 **Off-Screen:** When I'm not optimizing kernels, you can find me cooking, drinking tea, meditating, or speed-solving Sudoku.
+</div>
 
-### 📊 My Tech Stack & Stats
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MythicalCow&langs_count=10&theme=tokyonight)](https://github.com/MythicalCow)
+---
+
+### /about-me
+[cite_start]I'm a senior studying Computer Engineering at the University of Illinois Urbana-Champaign [cite: 6, 7][cite_start], focusing on high-performance inference, GPU acceleration, and optimizing machine learning systems[cite: 15, 20]. 
+
+* [cite_start]**Currently:** Inference Lead at Deepgrove (YC S25) [cite: 14, 15] 
+* **Next Up:** Software Engineer at Anduril
+* [cite_start]**Focus:** Hardware-software co-design, MoE models, real-time DSP, and operating systems [cite: 16, 20, 27, 37]
+* [cite_start]**Stack:** C, C++, CUDA, Python, Rust, Triton, PyTorch, SystemVerilog [cite: 40]
+
+### /github-metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MythicalCow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MythicalCow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" height="150" alt="Top Languages" />
+</div>
